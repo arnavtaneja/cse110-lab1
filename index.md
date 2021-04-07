@@ -10,3 +10,9 @@ This is my favorite code snippet. It matches strings that contain a prime number
 ```
 /^1?$|^(11+?)\1+$/ 
 ```
+
+
+Connect with me to learn more here ![Linkedin](https://www.linkedin.com/in/arnavtaneja/).
+
+I'm from the Bay!
+![](bayArea.jpeg)
