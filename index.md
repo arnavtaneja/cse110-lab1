@@ -10,6 +10,7 @@
   - [Code Snippet](#code-snippet)
   - [About Me](#about-me)
   - [Bucket List](#bucket-list)
+  - [List of my Favorite Animals](#list-of-my-favorite-animals)
 
 
 
@@ -36,7 +37,14 @@ I'm from the Bay!
 
 ## Bucket List
 
-1. [ ] Go to Mexico!
-2. [ ] Jump out of a plane!
-3. [ ] Scuba Dive!
+1. [ ]  Go to Mexico!
+2. [ ]  Jump out of a plane!
+3. [ ]  Scuba Dive!
+
+## List of my Favorite Animals
+
+- orangutan
+- whale
+- rhinocerous
+- dolphin
 
